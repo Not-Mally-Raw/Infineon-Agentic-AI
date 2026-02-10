@@ -1,0 +1,5 @@
+pandas
+requests
+langchain-groq
+langchain-core
+langgraph
